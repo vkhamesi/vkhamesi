@@ -1,5 +1,3 @@
-## Hello there 👋
-
 ### I'm a Ph.D. student in Statistics and Machine Learning at [Imperial College London](https://www.imperial.ac.uk/statistics/research/) working on distribution shift detection in multivariate sequential data. Here is a brief recap of my journey:
 
 - 📦 [Amazon Science](https://www.amazon.science/) - Data Scientist - Representation Learning, Recommender Systems, Statistical Machine Learning, Natural Language Processing (1 year)
